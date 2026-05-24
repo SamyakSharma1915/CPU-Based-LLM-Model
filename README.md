@@ -1,17 +1,3 @@
-<div align="centre">
-
-### The repository has been moved to Hugging Face
-  
-</div>
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 
