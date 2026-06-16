@@ -1,3 +1,5 @@
+NOTE: GET YOUR OWN DATASET FROM KAGGLE OR HUGGING FACE, IT SHOULD BE IN THE FORM OF TXT FILE AND NAME IT corpus.txt AND PUT IN data FOLDER AND TRAIN YOURSELF
+
 <div align="center">
 
 ### Lightweight CPU-Based LLM Framework Built with PyTorch
